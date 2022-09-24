@@ -118,7 +118,12 @@ public class FunctionLibrary extends AppUtil {
 				return false;
 			}
 		}
-	
+public static void add()
+{
+	int a=5667,b=9876,c;
+	c=a+b;
+	System.out.println(c);
+}
 }
 
 
